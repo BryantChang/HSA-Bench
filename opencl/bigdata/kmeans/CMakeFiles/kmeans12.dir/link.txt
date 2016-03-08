@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG      -m64    CMakeFiles/kmeans12.dir/kmeans.cc.o  -o bin/x86_64/Release/kmeans12 -rdynamic /opt/AMDAPPSDK-3.0-0-Beta/lib/x86_64/libOpenCL.so -lm -pthread -lrt -Wl,-rpath,/opt/AMDAPPSDK-3.0-0-Beta/lib/x86_64 
